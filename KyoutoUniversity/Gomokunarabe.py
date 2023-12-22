@@ -405,7 +405,7 @@ def play():
         # ここ(内側の while の外)で log に手を追加
         #
         # 要追加
-        #
+        #testet
         print(show_board())
         if is_draw():
             print("引き分けです")
